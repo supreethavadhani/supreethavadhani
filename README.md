@@ -1,4 +1,4 @@
-### Hi Developers 👋
+### Hello ! Welcome to my Github 👋
 
 I'm Supreeth,
 A Full Stack Software Engineer and Graduate Student at Oregon State University.
