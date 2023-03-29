@@ -1,9 +1,10 @@
 ### Hi Developers 👋
 
-I'm Supreeth
-A Full Stack Software Engineer
+I'm Supreeth,
+A Full Stack Software Engineer and Graduate Student at Oregon State University.
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (Angular14, HTML5, CSS3, Javascript, Typescript, Responsive, UX), Server Administrator(AWS), database(MongoDB, Postgres, Mysql), CI/CD(Github Actions)
 
+Here's my proudest achievement : [MV-CORE NPM PACKAGE](https://www.npmjs.com/package/mv-core)
 
 Languages and Tools: 
 
@@ -22,9 +23,6 @@ Languages and Tools:
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://vecta.io/app/link?src=https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40" />
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     </a>
@@ -33,9 +31,6 @@ Languages and Tools:
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
